@@ -72,9 +72,7 @@ npx @axe-core/cli http://localhost:8080 http://localhost:8080/shop/
 
 Manual pass (about 10 minutes per template): see the checklist in [docs/ACCESSIBILITY.md](docs/ACCESSIBILITY.md). Test with NVDA + Firefox or VoiceOver + Safari, keyboard only, 200% zoom, and a 320 px viewport.
 
-## Screenshots
 
-Add screenshots to `docs/` and link them here before publishing:
 
 ```
 ![Home page](docs/home.png)
